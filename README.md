@@ -20,11 +20,8 @@ The project demonstrates end‑to‑end workflow from **data cleaning (🧹 Exce
 ---
 
 ## 📸 Dashboard Preview  
-<img width="687" height="747" alt="Vrinda1-Excel" src="https://github.com/user-attachments/assets/1290a3ff-5dce-4eb8-987a-ff8b6fd1d0b9" />
-<img width="687" height="739" alt="Vrinda2-Excel" src="https://github.com/user-attachments/assets/487c6993-c1ae-4b33-95c9-59fb5b01a107" />
-<img width="690" height="745" alt="Vrinda3-Excel" src="https://github.com/user-attachments/assets/218fe24e-4583-4232-85af-f7076f5fdfec" />
-<img width="686" height="742" alt="Vrinda4-Excel" src="https://github.com/user-attachments/assets/404d0748-8efd-44f3-8410-69733db95344" />
-  
+<img width="1835" height="519" alt="Vrinda-Excel" src="https://github.com/user-attachments/assets/bf27c215-90e4-4449-8f43-2ddbae1973fd" />
+
 ---
 
 ## 📈 Key Insights  
